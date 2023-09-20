@@ -33,10 +33,10 @@ var newCSS = "";
 
 const music_list = [ 
     {
-        img : 'images/cd.jpeg',
+        img : 'cd.jpeg',
         name : 'silence',
         artist : 'silence',
-        music : 'music/silence.mp3',
+        music : 'silence.mp3',
         css : ""
     }
 ];
